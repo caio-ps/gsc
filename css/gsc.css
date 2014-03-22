@@ -1,0 +1,60 @@
+.gsc-navbar {
+	padding: 5px 20px 15px 15px;
+}
+
+.gsc-carousel {
+	height: 350px !important;
+}
+
+.gsc-banner {
+	background: #060C12 !important;
+}
+
+.gsc-left {
+	float: left;
+}
+
+@media (max-width: 400px) {
+	.gsc-img {
+		display: none;
+	}
+}
+
+.gsc-img-200 {
+	height: 200px;
+}
+
+@media (max-width: 500px) {
+	.gsc-img-200 {
+		height: 200px;
+		display: none;
+	}
+}
+
+.gsc-body {
+	margin-bottom: 100px;
+}
+
+.galleria{
+	width: 700px;
+	height: 900px;
+	background: #000;
+}
+
+.galleria-photo {
+	width: 700px;
+	height: 450px;
+	background: #000;	
+}
+
+.gsc-row-header {
+	margin-top: 20px;
+}
+
+.gsc-p {
+	margin-top: 3px;
+}
+
+.gsc-hr {
+	margin-top: 4px;
+}
