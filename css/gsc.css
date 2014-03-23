@@ -66,3 +66,12 @@
 .gsc-thumbnail {
 	background-color: #f7f7f7; 
 }
+
+.gsc-h {
+	margin-top: 20px;	
+}
+
+.gsc-h-b {
+	margin-top: 20px;
+	font-weight: bold;
+}
